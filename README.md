@@ -1,1 +1,3 @@
-mini project - News summarize
+mini project - News 
+hello 
+joud
