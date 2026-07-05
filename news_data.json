@@ -2,15 +2,145 @@
     {
         "source": {
             "id": null,
+            "name": "Push Square"
+        },
+        "author": "Push Square",
+        "title": "Poll: Vote for Your PS5 Game of the Month (June 2026) - Push Square",
+        "description": "Decide Push Square's GOTM",
+        "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-june-2026",
+        "urlToImage": "https://images.pushsquare.com/7f128ba8c1882/large.jpg",
+        "publishedAt": "2026-07-04T14:00:00Z",
+        "content": "Image: Push Square\r\nI've been putting these new Game of the Month votes together for over a year now, and I've got to just come out and say it: I don't think I've ever seen such a weak month for new … [+1649 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5google.com"
+        },
+        "author": "Ben Schoon",
+        "title": "Galaxy Z Fold 8 prices leak – the all-new ‘Wide’ is cheaper than the unchanged ‘Ultra’ - 9to5Google",
+        "description": "Peak ironic comedy. That’s how I’d describe leaked prices for the Galaxy Z Fold 8 series, as Samsung’s all-new “Wide”...",
+        "url": "http://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-07-04T14:00:00Z",
+        "content": "Peak ironic comedy. That’s how I’d describe leaked prices for the Galaxy Z Fold 8 series, as Samsung’s all-new “Wide” device is going to be cheaper than the “Ultra,” which is getting a price hike for… [+2415 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Mili Godio",
+        "title": "The best 4th of July sales worth shopping right now: Save up to 70% on Apple, Yeti and more - NBC News",
+        "description": "The best 4th of July sales are happening now. Our editors found worthwhile deals on Apple, Yeti, Medicube and more.",
+        "url": "https://www.nbcnews.com/select/shopping/best-4th-of-july-sales-deals-2026-rcna352871",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260702-4th-of-july-sale-2-mm-main-4b52a2.jpg",
+        "publishedAt": "2026-07-04T12:53:26Z",
+        "content": "The Fourth of July weekend is here, and if you missed out on getting your favorite items on sale during Prime Day, this is a great time to buy them at a discount. Many of our favorite brands and reta… [+15633 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "CNET"
         },
         "author": "See full bio",
-        "title": "I Got a First Look at Sony’s Cooling Neck Device, Just in Time for the Heat Wave - CNET",
-        "description": "Sony's Japanese Reon Pocket Pro Plus is now shipping in the US. These are my thoughts after days of testing.",
-        "url": "https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/",
-        "urlToImage": "https://www.cnet.com/a/img/resize/786454d49b5d858d6b0030ff14b584322ed807b6/hub/2026/07/02/918795a2-239e-4945-9a46-b03b007901b0/sony-reon-pocket-pro-plus-9.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "publishedAt": "2026-07-04T09:21:00Z",
-        "content": "This Fourth of July could be the hottest on record in certain parts of the US, CBS News reports, as a heat wave continues to impact half the country. Just in time for these potentially dangerous temp… [+6151 chars]"
+        "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - CNET",
+        "description": "We've rounded up almost 100 deals on tech, home essentials and more that won't break the bank.",
+        "url": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/3c11840803ffab8a510d37d43dd82b187725ae89/hub/2026/07/01/777af715-7a92-4a53-bccc-90554a3fa358/july-4-under-50-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2026-07-04T12:47:06Z",
+        "content": "Planning to spend your Fourth of July with burgers, beer and fireworks? Awesome. But this weekend can get even better with all the amazing discounts across all popular retailers right now, and you do… [+9098 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Jenn Gidman",
+        "title": "Why Video Games Cost So Much More Now - Newser",
+        "description": "Ballooning development budgets, digital trends are driving higher game, console prices",
+        "url": "https://www.newser.com/story/391772/why-video-games-cost-so-much-more-now.html",
+        "urlToImage": "https://cdn.newser.com/image/1696204-12-20260704074002.jpeg",
+        "publishedAt": "2026-07-04T12:10:00Z",
+        "content": "Nintendo's new Switch 2 didn't just arrive with fanfare—it came with serious sticker shock. The $450 console, paired with expensive marquee titles like Mario Kart World, caps a wider trend that Busin… [+1385 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Wes Davis",
+        "title": "TP-Link Deco BE77 Review: Great Mesh Wi-Fi for the Eero-Weary - Gizmodo",
+        "description": "TP-Link’s mesh Wi-Fi system is super fast, stable, and probably way more than my apartment needs.",
+        "url": "https://gizmodo.com/tp-link-deco-be77-review-great-mesh-wi-fi-for-the-eero-weary-2000771246",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/06/TP-Link-Deco-BE77-pair-1-1200x675.jpg",
+        "publishedAt": "2026-07-04T12:00:35Z",
+        "content": "Ive tested a lot of Wi-Fi routers over the years, and theyre pretty much always better than the one youd get from your ISP. They rarely differ from each other in ways that any non-tech-obsessed perso… [+13015 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Videocardz.com"
+        },
+        "author": null,
+        "title": "AYANEO NEXT 2 Strix Halo handheld starts global shipping in late July, top SKU hits $5,299 - VideoCardz.com",
+        "description": "AYANEO is preparing global NEXT 2 shipments for late July after months of delays. The top Ryzen AI Max+ 395 configuration now reaches $5,299 as memory and storage costs continue to affect availability.",
+        "url": "https://videocardz.com/newz/ayaneo-next-2-strix-halo-handheld-starts-global-shipping-in-late-july-top-sku-hits-5299",
+        "urlToImage": "https://cdn.videocardz.com/1/2026/07/AYANEO-NEXT-2-AMD-STRIX-HALO-HANDHELD.jpg",
+        "publishedAt": "2026-07-04T11:50:48Z",
+        "content": "During the latest AYANEO Product Sharing Session, the company’s CEO showcased the Windows handheld on camera and confirmed that overseas shipments are planned to start by the end of July. The livestr… [+2994 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BGR"
+        },
+        "author": "Faith Leroux",
+        "title": "What Does The Shield In The Battery Icon Mean On A Samsung Phone? - bgr.com",
+        "description": "The new shield icon on Samsung phones indicates that the phone's software is protecting your battery from overcharging. This keeps your battery healthy longer.",
+        "url": "https://www.bgr.com/2203985/what-does-the-shield-in-battery-icon-mean-on-samsung-phone/",
+        "urlToImage": "https://www.bgr.com/img/gallery/what-does-the-shield-in-the-battery-icon-mean-on-a-samsung-phone/l-intro-1782748603.jpg",
+        "publishedAt": "2026-07-04T11:47:00Z",
+        "content": "Samsung Galaxy phones have battery protection settings that help streamline your options. On newer One UI devices, you will find two options: Basic and Maximum. Adaptive used to be a third option, bu… [+1385 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "David Nield",
+        "title": "Where NASA Posts Its Best Space Photos, and How to Find Them - WIRED",
+        "description": "Explore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which are free to use and share.",
+        "url": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
+        "urlToImage": "https://media.wired.com/photos/6a453f6f8f445966503e6c40/191:100/w_1280,c_limit/GettyImages-458097145.jpg",
+        "publishedAt": "2026-07-04T11:00:00Z",
+        "content": "The recent mission to the moon by Artemis II astronauts was memorable, inspiring, and scientifically important for so many reasons. It also brought us a treasure trove of new images and videos ready … [+2713 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BGR"
+        },
+        "author": "Chris Smith",
+        "title": "5 Android Phones With The Longest Software Support Guarantees - bgr.com",
+        "description": "Seven years of Android updates used to be rare. Now it's becoming common across flagships, foldables, and even budget phones.",
+        "url": "https://www.bgr.com/2203938/android-phones-long-software-update-support/",
+        "urlToImage": "https://www.bgr.com/img/gallery/5-android-phones-with-the-longest-software-support-guarantees/l-intro-1782747438.jpg",
+        "publishedAt": "2026-07-04T10:47:00Z",
+        "content": "Launched in early 2026, the Motorola Signature will offer seven years of Android updates and seven years of security updates to buyers, which means software support will end in early 2033. Unlike the… [+1567 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Jeremy White",
+        "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone - WIRED",
+        "description": "Apple built a tool for people with cognitive disabilities, but I accidentally discovered it’s also the best kids’ phone setup no one is talking about—not even Apple.",
+        "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+        "urlToImage": "https://media.wired.com/photos/6a4648c1a27d0fa93c83a1c7/191:100/w_1280,c_limit/070226_iPhone-Dum-Phone.jpg",
+        "publishedAt": "2026-07-04T10:30:00Z",
+        "content": "It's called Assistive Access. Introduced with iOS 17, Apple designed it for those with cognitive disabilities. If you've never encountered or stumbled across it, it's a distinctive iOS experience: fe… [+1785 chars]"
     },
     {
         "source": {
@@ -27,16 +157,16 @@
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Android Authority"
         },
-        "author": "Thomas Ricker",
-        "title": "Qi fan fan - The Verge",
-        "description": "Active cooling really works as demonstrated on a Kuxiu D5  Qi2.2 charging dock. Useful at Qi 25W, it’ll likely be required for QI 50W.",
-        "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG20260703155425.jpeg?quality=90&strip=all&crop=0%2C28.891819371728%2C100%2C69.808027923211&w=1200",
-        "publishedAt": "2026-07-04T07:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nQi fan fan\r\nActive cooling really works, and could clear the way for a 50W wireless charging standard.\r\nby\r\nThomas RickerClose\r\nPosts from this author will be ad… [+5753 chars]"
+        "author": null,
+        "title": "I self-hosted PewDiePie's Odysseus AI workspace, and it's surprisingly brilliant - Android Authority",
+        "description": "Self-hosted, privacy-first, and powerfully feature-rich — PewDiePie's Odysseus AI workspace is genuinely top-notch.",
+        "url": "https://www.androidauthority.com/pewdiepie-odysseus-ai-hands-on-3682909/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/06/Odysseis-AI-Chat.jpg",
+        "publishedAt": "2026-07-04T08:40:14Z",
+        "content": "AI coding and workspace platforms are a dime a dozen these days, but I couldnt help but be surprised to see that PewDiePie has developed an AI workspace called Odysseus. The YouTuber is, perhaps surp… [+8450 chars]"
     },
     {
         "source": {
@@ -66,16 +196,29 @@
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "Insider-gaming.com"
         },
-        "author": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-        "title": "The only AI glossary you’ll need this year - TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-        "publishedAt": "2026-07-03T21:20:00Z",
-        "content": "Artificial intelligence is rewriting the world, and simultaneously inventing a whole new language to describe how it’s doing it. Sit in on any product meeting, pitch, or panel these days, and you’ll … [+22642 chars]"
+        "author": "Robert DeFelice",
+        "title": "Sony Says Next PlayStation Won’t Simply Compete With PCs - Insider Gaming",
+        "description": "Sony says future PlayStation hardware will offer experiences that differentiate it from gaming PCs while expanding where players can game.",
+        "url": "https://insider-gaming.com/sony-says-next-playstation-wont-simply-compete-with-pcs/",
+        "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/03/PlayStationSTudios.webp",
+        "publishedAt": "2026-07-03T22:12:30Z",
+        "content": "Sony executives respond to a question about how the PlayStation brand can recapture players who migrated to PC gaming during the global pandemic.\r\nThe global pandemic of 2020 meant that everybody had… [+2486 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daringfireball.net"
+        },
+        "author": null,
+        "title": "Claude’s Criminally Bad Electron Mac App Is an Inside Job - Daring Fireball",
+        "description": "Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns th…",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+        "publishedAt": "2026-07-03T21:28:40Z",
+        "content": "Anthropic released the first version of the Claude desktop app for MacOS in October 2024an Electron clunker that did not impress UI designers. When it came out, I wrote:\r\nChatGPTs native Mac app, on … [+6886 chars]"
     },
     {
         "source": {
@@ -106,157 +249,14 @@
     {
         "source": {
             "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ewan Spence",
-        "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers - Forbes",
-        "description": "This week’s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, new iPad Pro and MacBook Pro details, refurbished iPhone 16e and more...",
-        "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6945a6b3e5c989d44db1888d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-03T20:03:49Z",
-        "content": "Close up of the hands of a person unboxing a brand new iPhone 16e. (Photo by: Nano Calvo/VW Pics/Universal Images Group via Getty Images)\r\nVW Pics/Universal Images Group via Getty Images\r\nTaking a lo… [+4980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "GSMArena.com"
-        },
-        "author": "Vlad",
-        "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
-        "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
-        "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
-        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-prices/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-07-03T19:41:02Z",
-        "content": "Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch Ultra 2 at an Unpacked event taking place in London on July 22.\r\nAhead o… [+1222 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Internet"
-        },
-        "author": "The Hacker News",
-        "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
-        "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android. A patch is out; update",
-        "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif",
-        "publishedAt": "2026-07-03T19:40:00Z",
-        "content": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Andr… [+4591 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MacRumors"
-        },
-        "author": "Joe Rossignol",
-        "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
-        "description": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 17 and iPhone 17e, according to supply chain...",
-        "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
-        "urlToImage": "https://images.macrumors.com/t/UEZCUOG8YOUhjIDEsGIoroluUAw=/1950x/article-new/2025/09/iphone-17-ceramic-shield.jpg",
-        "publishedAt": "2026-07-03T19:10:00Z",
-        "content": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 17 and iPhone 17e, according to supply chain analyst Ming-Chi Kuo.\r\nIn a social media post, Kuo said… [+1702 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Anime News Network"
-        },
-        "author": null,
-        "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 - Anime News Network",
-        "description": "New alternate “Slayhem” scenario to be about 35 hours long",
-        "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
-        "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
-        "publishedAt": "2026-07-03T18:44:41Z",
-        "content": "Image via Danganronpa 2x2 games website\r\n© Spike Chunsoft Co., Ltd.\r\nSpike Chunsoft revealed during its Anime Expo panel on Friday that Danganronpa 2x2, a version of its Danganronpa 2: Goodbye Despai… [+2985 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DC Rainmaker"
-        },
-        "author": "Ray Maker",
-        "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
-        "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
-        "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
-        "urlToImage": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg",
-        "publishedAt": "2026-07-03T18:42:41Z",
-        "content": "The new Oura Ring 5 is a genuinely and significantly smaller ring than the previous Oura Ring 4 that was on my finger. That part isnt really debatable. And the real-world battery life seems to be a *… [+27513 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motor1 "
-        },
-        "author": "Jeff Perez",
-        "title": "Ferrari Finally Brought Back The Manual—Sort Of - Motor1.com",
-        "description": "The new Ferrari 12Cilindri Manuale is a special trim with a gearbox that offers both manual and automatic driving modes.",
-        "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/",
-        "urlToImage": "https://cdn.motor1.com/images/mgl/jlW1Ql/s1/ferrari-12cilindri-manuale.jpg",
-        "publishedAt": "2026-07-03T18:01:01Z",
-        "content": "Recent bombshells aside, Ferrari hasn't forgotten what makes its cars special: the driving experience. That's why, after listening to customer feedback, Maranello has introduced a \"manual\" version of… [+3003 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Andrew Liszewski",
-        "title": "Amazon quietly updated 2023’s Fire HD 10 tablet with 4GB of RAM - The Verge",
-        "description": "The 32GB model is now available with a bump from 3GB to 4GB of RAM with a small price increase.",
-        "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&strip=all&crop=0%2C10.704591657108%2C100%2C78.590816685784&w=1200",
-        "publishedAt": "2026-07-03T17:33:55Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 32GB model is now available with a bump from 3GB to 4GB of RAM with a small price increase.\r\nThe 32GB model is now available with a bump from 3GB to 4GB of R… [+2437 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Paul Tassi",
-        "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
-        "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to patch it before Destiny stops getting updates.",
-        "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a47ddb769ff49f48681a742/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-03T16:10:42Z",
-        "content": "We are in the final days of Destiny 2 getting any updates at all, including hotfixes past a final one arriving next week. But that has not stopped players from unearthing things that, in another time… [+2395 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Gizmodo.com"
         },
-        "author": "Justin Carter",
-        "title": "MAPPA Gets to Work On ‘Attack on Titan’ One Last Time - Gizmodo",
-        "description": "If 'Attack on Titan 3' is meant to be the franchise's definitive game, then of course it needs a little dose of MAPPA, no?",
-        "url": "https://gizmodo.com/attack-on-titan-3-video-game-mappa-opening-animation-2000781138",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/attack-on-titan-hed-1200x675.jpg",
-        "publishedAt": "2026-07-03T16:00:24Z",
-        "content": "It’s been three years since the Attack on Titan anime officially wrapped, concluding a long journey for MAPPA. The animation studio made the show’s final season, which started in 2020 and played out … [+1743 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Push Square"
-        },
-        "author": "Push Square",
-        "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
-        "description": "You can thank the movie for that",
-        "url": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month",
-        "urlToImage": "https://images.pushsquare.com/654359545db99/large.jpg",
-        "publishedAt": "2026-07-03T16:00:00Z",
-        "content": "Off the back of the recent film, excitement surrounding the Backrooms creepypasta is at an all-time high, and that's now translated into making Escape the Backrooms the best-selling PS5 game in the U… [+1834 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MacRumors"
-        },
-        "author": "Joe Rossignol",
-        "title": "Apple Already Testing iOS 27.4 - MacRumors",
-        "description": "Apple's software engineers recently began testing iOS 27.4, according to the MacRumors visitor logs.  Fun fact: Apple tests the \"fall\"...",
-        "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
-        "urlToImage": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-        "publishedAt": "2026-07-03T15:42:28Z",
-        "content": "Apple's software engineers recently began testing iOS 27.4, according to the MacRumors visitor logs.\r\nFun fact: Apple tests the \"fall\" (iOS 27.0) and \"spring\" (iOS 27.4) software releases concurrentl… [+1 chars]"
+        "author": "Jen Lennon",
+        "title": "‘Danganronpa 2×2’ Slayhem Mode Brings New Thrills, Chills, & Kills - Gizmodo",
+        "description": "Perhaps even more excitingly, Spike Chunsoft's fixing that terrible side-scrolling map.",
+        "url": "https://gizmodo.com/danganronpa-2x2-slayhem-release-date-2000781253",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/07/danganronpa-2-main-image-1200x675.jpg",
+        "publishedAt": "2026-07-03T21:00:21Z",
+        "content": "Spike Chunsoft has been very clear that it would rather you not refer to the upcoming Danganronpa 2×2 as a remake of Danganronpa 2: Goodbye Despair, thank you very much, and the company’s Anime Expo … [+1739 chars]"
     }
 ]
