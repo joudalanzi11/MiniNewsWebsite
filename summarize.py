@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import json
+import requests
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 # نجهز "موديل" التلخيص
@@ -43,6 +44,20 @@ def _article_text(article):
     return text or (article.get('title') or '').strip()
 
 
+def _is_image_reachable(url):
+    if not url:
+        return False
+    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        response = requests.head(url, headers=headers, timeout=3, allow_redirects=True)
+        if response.status_code == 405:
+            # بعض المواقع ما تدعم HEAD، نجرب GET بدلها
+            response = requests.get(url, headers=headers, timeout=3, stream=True)
+        return response.status_code == 200 and response.headers.get('content-type', '').startswith('image')
+    except requests.exceptions.RequestException:
+        return False
+
+
 def summarize_articles(articles):
     summarized_articles = []
 
@@ -57,15 +72,19 @@ def summarize_articles(articles):
             # نص قصير أصلاً، ما يحتاج تلخيص
             article['summary'] = text
             summarized_articles.append(article)
-            continue
+        else:
+            try:
+                max_len = min(120, words)
+                min_len = min(40, max_len - 10) if max_len > 20 else 15
+                article['summary'] = summarize_text(text, max_length=max_len, min_length=min_len)
+                summarized_articles.append(article)
+            except Exception as e:
+                print(f"تعذر تلخيص خبر '{article.get('title', '')}': {e}")
+                continue
 
-        try:
-            max_len = min(120, words)
-            min_len = min(40, max_len - 10) if max_len > 20 else 15
-            article['summary'] = summarize_text(text, max_length=max_len, min_length=min_len)
-            summarized_articles.append(article)
-        except Exception as e:
-            print(f"تعذر تلخيص خبر '{article.get('title', '')}': {e}")
+        # بعض الصور محمية من الموقع المصدر وما تفتح، نشيلها بدل ما تطلع مكسورة
+        if not _is_image_reachable(article.get('urlToImage')):
+            article['urlToImage'] = None
 
     return summarized_articles
 
