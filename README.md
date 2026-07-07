@@ -1,9 +1,9 @@
 # اخبار تقنية 📰 — Tech News Summarizer
 
 مشروع يجيب آخر أخبار التقنية، يلخّصها تلقائيًا، ويعرضها بواجهة داكنة أنيقة.
-فيه نسختين: نسخة **Next.js** الحديثة (الموصى بها)، ونسخة **Python/Streamlit** الأصلية.
+بُني في البداية بـ Python/Streamlit، ثم أُعيد بناؤه بالكامل بـ **Next.js + React + shadcn/ui**.
 
-## 🌐 النسخة الحديثة — Next.js + shadcn/ui (مجلد `web/`)
+## 🌐 المشروع — Next.js + shadcn/ui (مجلد `web/`)
 
 واجهة React كاملة بثيم داكن، عربية (RTL)، مبنية بـ Next.js 14 و shadcn/ui.
 
@@ -37,52 +37,22 @@ NEWS_API_KEY=مفتاحك_هنا
 
 ### 🚀 نشر الموقع أونلاين (يشتغل لأي حد، من أي جهاز)
 
-أسهل طريقة هي **Vercel** (الشركة المطوّرة لـ Next.js، عندها خطة مجانية):
+منشور حاليًا على **Vercel** — الشركة المطوّرة لـ Next.js، عندها خطة مجانية:
 
-1. ادخلي [vercel.com](https://vercel.com) وسجّلي حساب بـ GitHub.
-2. اضغطي **Add New → Project** واختاري الريبو `miniprojectSJ`.
+1. ادخلي [vercel.com](https://vercel.com) وسجّلي حساب.
+2. اضغطي **Add New → Project** واختاري الريبو.
 3. في **Root Directory** اختاري `web` (لأن مشروع Next.js داخل مجلد فرعي).
 4. في **Environment Variables** ضيفي:
    - Name: `NEWS_API_KEY`
    - Value: مفتاحك من newsapi.org
 5. اضغطي **Deploy**.
 
-بعد دقيقة أو دقيقتين بتحصلين رابط عام زي:
-```
-https://miniprojectsj.vercel.app
-```
-أي حد يفتح هذا الرابط من أي جهاز/جوال بيشوف الموقع ويستخدمه — بدون ما يحتاج يثبّت أي شي.
-
-> كل مرة ترفعين تحديث جديد على `main`، فيرسل يعيد النشر تلقائيًا.
+بعد دقيقة أو دقيقتين بتحصلين رابط عام يفتحه أي حد من أي جهاز/جوال بدون تثبيت شي.
 
 مزيد من التفاصيل في [web/README.md](web/README.md).
 
 ---
 
-## 🐍 النسخة الأصلية — Python + Streamlit
+## 📜 خلفية المشروع
 
-نسخة أبسط، تعتمد على موديل ذكاء اصطناعي محلي (`distilbart-cnn-12-6`) للتلخيص.
-
-### كيف تشتغل
-1. [main.py](main.py) — يجيب عناوين تقنية من [NewsAPI](https://newsapi.org) ويحفظها في `news_data.json`.
-2. [summarize.py](summarize.py) — يلخّص كل خبر بموديل `distilbart-cnn-12-6` ويحفظ النتيجة في `summarized_news.json`.
-3. [app.py](app.py) — واجهة Streamlit تعرض الأخبار الملخّصة.
-
-### الإعداد
-```bash
-pip install -r requirements.txt
-```
-انسخي `.env.example` إلى `.env` وحطي مفتاحك:
-```
-NEWS_API_KEY=مفتاحك_هنا
-```
-
-### التشغيل
-```bash
-python main.py
-python summarize.py
-streamlit run app.py
-```
-
-### التقنيات
-- Python · NewsAPI · Hugging Face Transformers · Streamlit
+بدأ هذا المشروع كنسخة Python/Streamlit بسيطة تعتمد على موديل تلخيص محلي (`distilbart-cnn-12-6`)، ثم أُعيد بناؤه بالكامل بـ Next.js لواجهة أحدث وأسرع وقابلة للنشر بسهولة.

@@ -8,6 +8,10 @@
 - 🌙 واجهة داكنة عربية (RTL) بمكوّنات shadcn/ui.
 - 🔄 زر "جيب أخبار جديدة" يجيب مواضيع تقنية متنوعة في كل مرة.
 - 🔍 بحث في كل أخبار NewsAPI عن أي موضوع.
+- 🏷️ أزرار مواضيع سريعة (ذكاء اصطناعي، آبل، ألعاب، عملات رقمية...).
+- 🌍 تبديل لغة الأخبار نفسها (عربي / English).
+- 🔖 حفظ الأخبار "للقراءة لاحقًا" (لوح جانبي، محفوظ في المتصفح).
+- 🕒 وقت نسبي ("قبل ساعتين") + زر مشاركة/نسخ رابط.
 - ✂️ تلخيص استخراجي سريع بدون أي موديل ثقيل أو مفتاح إضافي.
 - 🔐 مفتاح NewsAPI يبقى في السيرفر (API routes) وما ينكشف للمتصفح.
 
@@ -51,19 +55,17 @@ web/
 │  └─ globals.css           # متغيّرات الثيم (shadcn)
 ├─ components/
 │  ├─ ui/                   # مكوّنات shadcn (button, card, input, badge, skeleton)
-│  ├─ news-card.tsx         # بطاقة الخبر
-│  └─ news-feed.tsx         # المنطق: جلب/بحث/تحديث
+│  ├─ news-card.tsx         # بطاقة الخبر (حفظ، مشاركة، وقت نسبي)
+│  ├─ news-feed.tsx         # المنطق: جلب/بحث/تحديث/لغة
+│  ├─ topic-chips.tsx       # أزرار المواضيع السريعة
+│  ├─ language-toggle.tsx   # مبدّل عربي/English
+│  └─ reading-list-panel.tsx # لوح "للقراءة لاحقًا"
 └─ lib/
-   ├─ newsapi.ts            # الاتصال بـ NewsAPI (مطابق لـ main.py)
-   ├─ summarize.ts          # التلخيص الاستخراجي (بديل summarize.py)
+   ├─ newsapi.ts            # الاتصال بـ NewsAPI
+   ├─ summarize.ts          # التلخيص الاستخراجي
+   ├─ topics.ts             # مواضيع البحث بالعربي/الإنجليزي
+   ├─ time.ts               # الوقت النسبي بالعربي
+   ├─ reading-list-store.ts # تخزين "للقراءة لاحقًا" (localStorage)
    ├─ types.ts
    └─ utils.ts
 ```
-
-## مقارنة بالنسخة الأصلية (Python/Streamlit)
-
-| النسخة الأصلية | نسخة Next.js |
-|---|---|
-| `main.py` (جلب) | `lib/newsapi.ts` |
-| `summarize.py` (موديل distilbart) | `lib/summarize.ts` (تلخيص استخراجي) |
-| `app.py` (Streamlit) | `app/page.tsx` + `components/` |
