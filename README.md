@@ -19,7 +19,7 @@
 
 ### التشغيل محليًا
 
-يتطلب **Node.js 18+** (نزّليه من [nodejs.org](https://nodejs.org) إذا مو مثبّت).
+يتطلب **Node.js 18+** (نزّله من [nodejs.org](https://nodejs.org) إذا مو مثبّت).
 
 ```bash
 cd web
@@ -27,27 +27,27 @@ npm install
 npm run dev
 ```
 
-افتحي <http://localhost:3000>.
+افتح <http://localhost:3000>.
 
-انسخي `web/.env.local.example` إلى `web/.env.local` وحطي مفتاحك:
+انسخ `web/.env.local.example` إلى `web/.env.local` وحط مفتاحك:
 ```
 NEWS_API_KEY=مفتاحك_هنا
 ```
-احصلي على مفتاح مجاني من <https://newsapi.org/register>.
+احصل على مفتاح مجاني من <https://newsapi.org/register>.
 
 ### 🚀 نشر الموقع أونلاين (يشتغل لأي حد، من أي جهاز)
 
 منشور حاليًا على **Vercel** — الشركة المطوّرة لـ Next.js، عندها خطة مجانية:
 
-1. ادخلي [vercel.com](https://vercel.com) وسجّلي حساب.
-2. اضغطي **Add New → Project** واختاري الريبو.
-3. في **Root Directory** اختاري `web` (لأن مشروع Next.js داخل مجلد فرعي).
-4. في **Environment Variables** ضيفي:
+1. ادخل [vercel.com](https://vercel.com) وسجّل حساب.
+2. اضغط **Add New → Project** واختر الريبو.
+3. في **Root Directory** اختر `web` (لأن مشروع Next.js داخل مجلد فرعي).
+4. في **Environment Variables** ضيف:
    - Name: `NEWS_API_KEY`
    - Value: مفتاحك من newsapi.org
-5. اضغطي **Deploy**.
+5. اضغط **Deploy**.
 
-بعد دقيقة أو دقيقتين بتحصلين رابط عام يفتحه أي حد من أي جهاز/جوال بدون تثبيت شي.
+بعد دقيقة أو دقيقتين بتحصل على رابط عام يفتحه أي حد من أي جهاز/جوال بدون تثبيت شي.
 
 مزيد من التفاصيل في [web/README.md](web/README.md).
 

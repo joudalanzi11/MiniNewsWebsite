@@ -137,7 +137,7 @@ export function NewsFeed() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && runSearch(query, lang)}
-            placeholder="🔍 دوّري عن أي خبر..."
+            placeholder="🔍 دوّر عن أي خبر..."
           />
           <Button
             onClick={() => runSearch(query, lang)}
@@ -176,7 +176,7 @@ export function NewsFeed() {
         <LoadingGrid />
       ) : articles.length === 0 && !error ? (
         <p className="py-16 text-center text-muted-foreground">
-          ما فيه أخبار حالياً. جرّبي كلمة بحث ثانية أو حدّثي الأخبار.
+          ما فيه أخبار حالياً. جرّب كلمة بحث ثانية أو حدّث الأخبار.
         </p>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">

@@ -23,7 +23,7 @@
 
 ## التشغيل
 
-> يتطلب **Node.js 18+**. إذا مو مثبّت، حمّليه من <https://nodejs.org>.
+> يتطلب **Node.js 18+**. إذا مو مثبّت، حمّله من <https://nodejs.org>.
 
 ```bash
 cd web
@@ -31,17 +31,17 @@ npm install          # تثبيت الحزم
 npm run dev          # تشغيل بيئة التطوير
 ```
 
-بعدها افتحي <http://localhost:3000>.
+بعدها افتح <http://localhost:3000>.
 
 ### مفتاح NewsAPI
 
-المفتاح موجود في `web/.env.local`. لو تبين مفتاحك الخاص:
+المفتاح موجود في `web/.env.local`. لو تبي مفتاحك الخاص:
 
 ```
-NEWS_API_KEY=ضعي_مفتاحك_هنا
+NEWS_API_KEY=ضع_مفتاحك_هنا
 ```
 
-احصلي على مفتاح مجاني من <https://newsapi.org/register>.
+احصل على مفتاح مجاني من <https://newsapi.org/register>.
 
 ## البنية
 

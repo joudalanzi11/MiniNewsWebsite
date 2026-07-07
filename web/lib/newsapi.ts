@@ -13,7 +13,7 @@ function getApiKey(): string {
   const key = process.env.NEWS_API_KEY;
   if (!key || key === "your_newsapi_key_here") {
     throw new NewsApiError(
-      "لازم تحطين مفتاح NewsAPI الصحيح في ملف .env.local (NEWS_API_KEY=...)",
+      "لازم تحط مفتاح NewsAPI الصحيح في ملف .env.local (NEWS_API_KEY=...)",
       500,
     );
   }
@@ -26,11 +26,11 @@ type RawArticle = NonNullable<NewsApiResponse["articles"]>[number];
 function messageFor(data: NewsApiResponse): string {
   switch (data.code) {
     case "rateLimited":
-      return "تجاوزتي حد الطلبات اليومي في NewsAPI. حاولي بعد شوي أو بكرة.";
+      return "تجاوزت حد الطلبات اليومي في NewsAPI. حاول بعد شوي أو بكرة.";
     case "apiKeyInvalid":
     case "apiKeyMissing":
     case "apiKeyDisabled":
-      return "مفتاح NewsAPI غير صالح. تأكدي من المفتاح في ملف .env.local.";
+      return "مفتاح NewsAPI غير صالح. تأكد من المفتاح في ملف .env.local.";
     default:
       return data.message || "خطأ غير معروف من NewsAPI";
   }

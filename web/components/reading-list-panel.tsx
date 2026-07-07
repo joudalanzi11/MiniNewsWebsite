@@ -74,7 +74,7 @@ export function ReadingListButton() {
               <Bookmark className="size-10 opacity-40" />
               <p>ما عندك أخبار محفوظة بعد.</p>
               <p className="text-xs">
-                اضغطي أيقونة الحفظ 🔖 على أي خبر عشان يظهر هنا.
+                اضغط أيقونة الحفظ 🔖 على أي خبر عشان يظهر هنا.
               </p>
             </div>
           ) : (

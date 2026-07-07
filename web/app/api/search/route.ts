@@ -13,7 +13,7 @@ export async function GET(request: NextRequest) {
 
   if (!query) {
     return NextResponse.json(
-      { error: "اكتبي كلمة عشان تبحثين." },
+      { error: "اكتب كلمة عشان تبحث." },
       { status: 400 },
     );
   }
